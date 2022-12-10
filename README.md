@@ -4,7 +4,7 @@ Within this repository will be the projects with write-ups and code that I take 
 
 |  Project   | Concepts Learned | Datasets Used     |
 | :---        |    :----:   |     :---:     |
-| [Perceptron]()    | NN basics, activation, update step       | Here's this   |
-| [Backprop]()   | Backward/Forward pass, loss function, sigmoid, ReLU| And more      |
-| [JAX]()   | JAX syntax, optimizers | And more      |
-| [FLAX]()   | FLAX syntax and architecure | And more      |
+| [Perceptron](https://github.com/jbean1597/ML_Study/tree/main/Perceptron)    | NN basics, activation, update step       | Here's this   |
+| [Backprop](https://github.com/jbean1597/ML_Study/tree/main/Backprop)   | Backward/Forward pass, loss function, sigmoid, ReLU| And more      |
+| [JAX](https://github.com/jbean1597/ML_Study/tree/main/JAX_FLAX)   | JAX syntax, optimizers | And more      |
+| [FLAX](https://github.com/jbean1597/ML_Study/tree/main/JAX_FLAX)   | FLAX syntax and architecure | And more      |
