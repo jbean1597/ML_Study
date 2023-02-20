@@ -5,7 +5,7 @@ A model for predicting if a website is a phishing site and the data used are wit
 CPU times: user 38.5 s, sys: 85.4 ms, total: 38.5 s
 Wall time: 38.6 s
 ```
-
+The process of improving the time was a mix of changing out for loops 
 ### Sources
 
 [Kaggle Phishing Dataset](https://www.kaggle.com/datasets/shashwatwork/phishing-dataset-for-machine-learning)
