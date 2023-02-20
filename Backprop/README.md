@@ -4,5 +4,5 @@ Building off of what was covered in the perceptron module, backpropogation intro
 
 ### Sources
 
-[Lecture on Backprop and computational graphs](https://www.youtube.com/watch?v=59Hbtz7XgjM)
+[Lecture on Backprop and computational graphs](https://www.youtube.com/watch?v=59Hbtz7XgjM) <br>
 [How to Code a Neural Network with Backpropagation In Python (from scratch)](https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/) 
