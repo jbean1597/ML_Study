@@ -18,7 +18,7 @@ Context:['Gatsbys', 'house'] Prediction: ['enormous'] and ['largest']
 Context:['the', 'party'] Prediction: ['quartet'] # referencing a line/group in the book
 ```
 
-##### Ways to Improve Model
+#### Ways to Improve Model
 * Larger amount of epochs
 * Optimization of activation/loss functions
 * Remove least frequent words
