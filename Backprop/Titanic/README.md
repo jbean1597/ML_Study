@@ -7,5 +7,5 @@ My model and data used for predicting survivors of the Titanic dataset. The mode
 [Kaggle Titanic Dataset](https://www.kaggle.com/competitions/titanic/data)
 
 #### Size of Dataset
-Before Cleaning: ```891x12``` <br>
-After Cleaning and Processing: ```889x8```
+Before Cleaning: ```(891, 12)``` <br>
+After Cleaning and Processing: ```(889, 8)```
