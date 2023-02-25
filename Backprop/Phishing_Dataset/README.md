@@ -18,4 +18,4 @@ With these hyperparameters the model returned an accuracy of 96% in the training
 [Kaggle Phishing Dataset](https://www.kaggle.com/datasets/shashwatwork/phishing-dataset-for-machine-learning)
 
 #### Size of Dataset
-(10000, 50) with a train/test split of 75/25
+```(10000, 50)``` with a train/test split of 75/25
